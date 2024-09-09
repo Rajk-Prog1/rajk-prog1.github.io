@@ -13,7 +13,7 @@ description: >-
 
 {: .no_toc .text-delta }
 
-2. TOC
+1. TOC
    {:toc}
 
 ---
