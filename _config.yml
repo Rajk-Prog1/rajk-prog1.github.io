@@ -17,8 +17,7 @@ title: Rajk Prog1
 tagline: Rajk Prog1
 description: Rajk Prog1
 author: Rajk Prog1
-baseurl: '/rajk-prog1' # the subpath of your site, e.g. /blog
-url: 'https://rajk-prog1.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rajk-prog1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,7 +28,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Rajk-Prog1 on GitHub:
-    - 'https://github.com/Rajk-Prog1'
+    - "https://github.com/Rajk-Prog1"
 footer_content:
 
 # Collections for website data
@@ -41,25 +40,25 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
       width: 300
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
