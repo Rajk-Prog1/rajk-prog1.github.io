@@ -1,33 +1,78 @@
 ---
 layout: page
-title: About
+title: Kurzusismertető
 description: >-
-  Course policies and information.
+  A kurzus alapvető információi
 ---
 
-# About
+# Kurzusismertető
+
 {:.no_toc}
 
-## Table of contents
+## Tartalomjegyzék
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
-## About
+## TLDR
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Nem egy programnyelvet vagy programcsomagot szeretnénk megtanítani,
+hanem a programozás alapjait és logikáját megismertetni. Több lehetséges
+módot is felfedezni, ahogyan programozási problémák megközelíthetőek.
+A fő cél az algoritmikus és programtervező gondolkodás elsajátítása.
 
-## Lecture
+## Jelentkezési szabály
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+A kurzus maximális létszáma 9 fő.
 
-## Resources
+## Célok
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+A kurzus célja, hogy átadjon egy olyan alapvető ismeretcsomagot a
+programok és algoritmusok működéséről, amivel magabiztosabban lehet
+nekifutni összetettebb problémák megoldásának, új programnyelvek
+elsajátításának, más programozással kapcsolatos kurzusoknak. Ezen kívül
+egy pontosabb kép kialakítása a kurzustagok fejében arról, hogy milyen
+jellegű problémákat lehet megoldani programokkal, programozókkal. Így a
+kurzus olyanoknak is hasznos lehet, akik maguk nem terveznek
+megtanulni magas szinten programozni, de szeretnének olyanokkal
+hatékonyabban együtt dolgozni, akik ebben képzettek. Össze fogunk
+hasonlítani pár programnyelvet, használni egyedül a pythont fogjuk.
+További cél, hogy a kurzustagok tudjanak önállóan megoldásokat találni a
+jövőben programozással kapcsolatos problémáikra.
 
-## Assignments
+## Vázlatos menet
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+A kurzus elején azt vesszük át, hogyan áll össze és működik egy egyszerű
+program. Megvizsgáljuk milyen utasításokat értenek meg modern
+számítógépekkel analóg, elméleti gépek, és ezek hogyan kapcsolódhatnak
+egymáshoz. Ezen kívül kitérünk az adatszerkezetekre és hogy
+ezek hogyan kapcsolódnak a program működéséhez. A kurzus második
+felében összekapcsolódó algoritmusokról és programokról lesz szó,
+elsősorban imperatív, objektum-orientált procedurális programozási
+paradigmában. Röviden kitérünk programnyelvek-re,
+bonyolultságanalízisre és megnézünk pár nevezetes algoritmust,
+mechanizmust és programozási problémát. Megvizsgáljuk, hogy ugyanaz a
+program hogyan néz ki 4-5 különböző programnyelven megírva és
+keresünk olyan problémát, amire tudunk olyan programot írni, ami fél nap
+alatt fut le, meg olyat is, ami fél perc alatt.
+
+## Számonkérés
+
+Minden alkalomra házi feladat, egyesével kiértékelve. A nem megfelelőket
+pótolni kell. Lesznek plusz nehezebb házik a gyorsabban haladóknak.
+Kurzus közben egy kurzuson kívül megoldható
+feladatsor. Kurzus végén egy beadandó programleírás specifikációval és
+algoritmussal. Saját problémákat kell
+kitalálni, de el kell, hogy fogadják a kurzustartók.
+
+## Előfeltétel
+
+Lényegében nincs, a formális logika ismerete előny, de igazából a
+jelölések ismerete a lényeg (van rá prekurzus). Programozni tudók és nem
+tudók egyaránt welcome, az elméleti rész döntő része valószínűleg
+mindenkinek új lesz az, hogy ki mennyire gyakorlott, a házi feladatnál
+számít igazán, az pedig differenciálva lesz.

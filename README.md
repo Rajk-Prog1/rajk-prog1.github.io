@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Rajk Prog1
 nav_exclude: true
 permalink: /:path/
 seo:
