@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Kurzusismertető
+title: ChatGPT irányelvek
 description: >-
-  A kurzus alapvető információi
+  Hogyan használjuk a ChatGPT-t
 ---
 
 # A programozó barátja a ChatGPT: De hogyan használd, hogy meg is tanulj programozni?
