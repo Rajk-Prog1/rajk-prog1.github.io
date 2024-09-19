@@ -19,6 +19,7 @@ A ChatGPT képes komplex programozási feladatok megoldására, akár konkrét f
 
 Íme egy példa:
 
+![Kép1](/Rajk-Prog1/assets/images/chat_gpt/Kép1.png)
 ![Kép1.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép1.png?raw=true)
 ![Kép2.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép2.png?raw=true)
 
