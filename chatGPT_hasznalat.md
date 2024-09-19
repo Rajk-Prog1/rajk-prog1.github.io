@@ -19,15 +19,24 @@ A ChatGPT képes komplex programozási feladatok megoldására, akár konkrét f
 
 Íme egy példa:
 
+![Kép1.png](attachment:/assets/images/Kép1.png)
+![Kép2.png](attachment:/assets/images/Kép2.png)
+
 Ebben az esetben magyar utasítást adtam neki, de érdemes lehet angolul is megpróbálni, bizonyos kérdéseknél pontosabb az angol válasz. 
 
 **VISZONT**: ha így oldanánk meg az elején minden programozási feladatot, nehezen vagy egyáltalán nem alakul ki az a programozási logika, amivel a későbbiek során ellenőrizni tudjátok a kapott kódokot (természetesen a futtatáson kívül).
 
 ## Akkor mégis mire lehet használni?
 A kurzus során segítségül hívhatjátok a ChatGPT-t, de nem az előbb bemutatott formában. A kurzus során a ChatGPT egy kódoláshoz kondicionált verzióját fogjuk használni a Code Tutort. 
+
 Ezt a következőképpen éritek el:
 
+![Kép3.png](attachment:/assets/images/Kép3.png)
+![Kép4.png](attachment:/assets/images/Kép4.png)
+
 Ez a motor az előzőekben feltett kérdésre a következő választ adja:
+
+![Kép5.png](attachment:/assets/images/Kép5.png)
 
 Tehát ebben az esetben:
 -	Nem kaptok konkrét megoldást a kérdésre, csak segítséget arra, hogy hogyan induljatok el. 
