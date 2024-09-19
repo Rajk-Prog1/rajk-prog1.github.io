@@ -19,8 +19,8 @@ A ChatGPT képes komplex programozási feladatok megoldására, akár konkrét f
 
 Íme egy példa:
 
-![Kép1.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép1.png)
-![Kép2.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép2.png)
+![Kép1.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép1.png?raw=true)
+![Kép2.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép2.png?raw=true)
 
 Ebben az esetben magyar utasítást adtam neki, de érdemes lehet angolul is megpróbálni, bizonyos kérdéseknél pontosabb az angol válasz. 
 
@@ -31,12 +31,12 @@ A kurzus során segítségül hívhatjátok a ChatGPT-t, de nem az előbb bemuta
 
 Ezt a következőképpen éritek el:
 
-![Kép3.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép3.png)
-![Kép4.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép4.png)
+![Kép3.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép3.png?raw=true)
+![Kép4.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép4.png?raw=true)
 
 Ez a motor az előzőekben feltett kérdésre a következő választ adja:
 
-![Kép5.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép5.png)
+![Kép5.png](https://github.com/Rajk-Prog1/rajk-prog1.github.io/tree/main/assets/images/chat_gpt/Kép5.png?raw=true)
 
 Tehát ebben az esetben:
 -	Nem kaptok konkrét megoldást a kérdésre, csak segítséget arra, hogy hogyan induljatok el. 
