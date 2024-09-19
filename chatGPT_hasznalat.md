@@ -1,3 +1,10 @@
+---
+layout: page
+title: Kurzusismertető
+description: >-
+  A kurzus alapvető információi
+---
+
 # A programozó barátja a ChatGPT: De hogyan használd, hogy meg is tanulj programozni?
 
 ## Az első kérdés: mi a [ChatGPT](https://www.xlabs.hu/blog/mi-az-a-chatgpt-elmagyarazzuk-roviden-erthetoen)?
