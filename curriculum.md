@@ -18,141 +18,141 @@ description: >-
 
 ## [0. Prelogika](https://rajk-prog1.github.io/prelogic/)
 
-### Témák
+**Témák**
 
 Formális logika, Ítéletlogika, Elsőrendű logika
 
-### Házifeladat
+**Házifeladat**
 
 Állítások fordítása, Kiegészítő videók, GitHub regisztráció
 Gumikacsák
 
 ## 1.
 
-### Témák
+**Témák**
 
 Tudás, Specifikáció, Python környezet bemutatása, Kacsaszavazás
 
-### Házifeladat
+**Házifeladat**
 
 Specifikációk párosítása és írása, quiz
 
 ## 2.
 
-### Témák
+**Témák**
 
 Alapfogalmak, Strukturált programozás, Python alapok
 
-### Házifeladat
+**Házifeladat**
 
 Bonyolultabb specifikációk írása, olvasmányok, quiz, bevezető python feladatok
 
 ## 3.
 
-### Témák
+**Témák**
 
 Globális/lokális változó, Függvények I., SZAR kiselőadás, Python listák, Jupyter notebook
 
-### Házifeladat
+**Házifeladat**
 
 Python alapapozó feladatok, olvasmányok, quiz
 
 ## 4.
 
-### Témák
+**Témák**
 
 Függvények II., Nyelvösszehasonlítás, OS/programnyelvek kiselőadás, Rekurzió
 
-### Házifeladat
+**Házifeladat**
 
 Programozási feladatok, nyílthelyi, olvasmányok, quiz
 
 ## 5.
 
-### Témák
+**Témák**
 
 Algoritmusok intro, Git, Github, Dokumentáció, python dictionary
 
-### Házifeladat
+**Házifeladat**
 
 Algoritmusok implementálása, Github ismertető, ovlasmányok, quiz
 
 ## 6.
 
-### Témák
+**Témák**
 
 Csoportmunka
 
-### Házifeladat
+**Házifeladat**
 
 Csoportmunka lezárása, dictionary házifeladat, JKG I., olvasmány, quiz
 
 ## 7.
 
-### Témák
+**Témák**
 
 Bonyolutságelmélet, Algoritmusok, Package
 
-### Házifeladat
+**Házifeladat**
 
 JKG II., olvasmány, quiz
 
 ## 8.
 
-### Témák
+**Témák**
 
 Class, OOP lezárás
 
-### Házifeladat
+**Házifeladat**
 
 Class házi, olvasmány, quiz
 
 ## Kurzushétvége
 
-### Témák
+**Témák**
 
 Csoportmunka, JESZK Moments, Kumikacsák
 
-### Házifeladat
+**Házifeladat**
 
 A kurzushétvégi feladatok lezárása.
 
 ## 9.
 
-### Témák
+**Témák**
 
 Turing-gép, halting problem, Internet-architektúra kiselőadás
 
-### Házifeladat
+**Házifeladat**
 
 Projekt gondolkodás, !prog házi!, olvasmány, quiz
 
 ## 10.
 
-### Témák
+**Témák**
 
 Pandas I., Scrape intro
 
-### Házifeladat
+**Házifeladat**
 
 Pandas házi, Projekt gondolkodás, olvasmány, quiz
 
 ## 11.
 
-### Témák
+**Témák**
 
 Pandas II., Adatvizualizáció intro, Adatbázisok, Projektek
 
-### Házifeladat
+**Házifeladat**
 
 Pandas házi, olvasmány, quiz
 
 ## 12.
 
-### Témák
+**Témák**
 
 Gépi tanulás intro, Projektek
 
-### Házifeladat
+**Házifeladat**
 
 -
