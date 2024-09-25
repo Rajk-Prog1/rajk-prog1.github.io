@@ -27,7 +27,7 @@ Formális logika, Ítéletlogika, Elsőrendű logika
 Állítások fordítása, Kiegészítő videók, GitHub regisztráció
 Gumikacsák
 
-## 1.
+## [1.](https://rajk-prog1.github.io/class-1/)
 
 **Témák**
 
