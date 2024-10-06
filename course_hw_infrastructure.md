@@ -1,8 +1,8 @@
 ---
 layout: page
-title: course homework infrastructure
+title: Kurzus Házi Feladat Infrastruktúra
 description: >-
-  course homework infrastructure
+  Kurzus Házi Feladat Infrastruktúra
 ---
 
 # Kurzus Házi Feladat Infrastruktúra
