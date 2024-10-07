@@ -100,12 +100,10 @@ Ehhez menjetek baloldalt a **Source control** fülre. Itt látjátok, hogy mi v�
 ### **Leadás menete**
 
 1. Ha fel akartok tölteni egy kész házit, akkor először bele kell tegyétek a **stage**-be a kis plusz ikonnal. Ezt minden olyan fájlal meg kell tenni, amit fel akartok tölteni!
-2. Ha minden fontos fájl bent van a stage-ben, akkor a kis pipa ikonnal **commit**-olni kell a változásokat. Ez lényegében egy-egy verziója lesz a repositorynak.
-3. Ha ez is megvolt, akkor a lenti **push** gombbal kell feltölteni a változásokat a GitHub-ra. Innentől lesz számunkra is látható, hogy min és hogyan dolgozatok.
+2. Ha minden fontos fájl bent van a stage-ben, akkor a kis pipa ikonnal **commit**-olni kell a változásokat. Ez lényegében egy-egy verziója lesz a repositorynak. Fontos, hogy minden esetben írjatok valamit a **Message** részhez, mert nem tudtok üzenet nélkül commit-olni.
+3. Ha ez is megvolt, akkor a lenti **push** gombbal kell feltölteni a változásokat a GitHub-ra. Innentől lesz számunkra is látható, hogy min és hogyan dolgozatok. A lenti **push** gomb alternatívája a **Sync Changes** gomb.
 
 ![preview](./assets/images/hw_inf/5.png)
-
-4. A lenti **push** gomb alternatívája a **Sync Changes** gomb.
 
 ![preview](./assets/images/hw_inf/github-sync.png)
 
