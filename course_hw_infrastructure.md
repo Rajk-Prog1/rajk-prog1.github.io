@@ -45,16 +45,23 @@ git config --global user.name "Your Github Name"
 
 A 2. házi kiírásához csatoltam egy `extensions` nevű fájlt, ezt töltsétek le. Nyissatok egy terminált oda, ahova letöltöttétek ez a fájlt és futtassátok a következő parancsot:
 
-Windows:
+Windows Command Prompt:
 
 ```bash
-for /f "tokens=*" %i in (extensions.txt) do code --install-extension %i
+for /f "tokens=*" %i in (extensions) do code --install-extension %i
 ```
+
+Windows PowerShell:
+
+```bash
+Get-Content extensions | ForEach-Object { code --install-extension $_ }
+```
+
 
 Mac:
 
 ```bash
-while read extension; do code --install-extension "$extension"; done < extensions.txt
+while read extension; do code --install-extension "$extension"; done < extensions
 ```
 
 Ezzel települ minden olyan bővítmény a VS Code-ba, amire a kurzus elején szükségetek lehet. Egyébként a VS Code-on belül jobb oldalon az **Extensions** fül alatt tudtok kiegészítőket telepíteni.
