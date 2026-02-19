@@ -1,5 +1,5 @@
 ---
-name: Biszak Otilia
+name: Schenk Anna
 role: Teaching Assistant
 email:
 website:
