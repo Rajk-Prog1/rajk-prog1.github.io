@@ -1,5 +1,5 @@
 ---
-name: Németh Áron
+name: Joós Dávid
 role: Teaching Assistant
 email:
 website:
